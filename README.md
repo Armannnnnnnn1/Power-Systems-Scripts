@@ -1,4 +1,4 @@
-AlphaMatrixStuff: Converts fault current and voltages between phase domain and sequence domain. For vectorial addition, use Sum(Vtn) or Sum(Vabc)... for the majority of problems in EE45500, the vector sums should be zero as a sanity check.
+AlphaMatrixStuff: Converts fault current and voltages between phase domain and sequence domain. For vectorial addition, use Sum(Vtn) or Sum(Vabc)... for the majority of problems in EE45500, the vector sums should be zero as a sanity check. 
 
 ConvertingImpedance: Simple script to change base in per unit systems if a component does not match with the specified Vbase and/or Sbase.
 
