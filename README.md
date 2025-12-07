@@ -2,4 +2,4 @@ AlphaMatrixStuff: Converts fault current and voltages between phase domain and s
 
 ConvertingImpedance: Simple script to change base in per unit systems if a component does not match with the specified Vbase and/or Sbase.
 
-NRaph: Load Flow project using the Newton Raphson method for a more efficient iterative process than Gauss Seidel method. Use Power Injection mismatch and Jacobian matrix to create updated guesses. This usually produces convergence in very low iteration counts. I plan on updating this script with MATPower to improve initializations and allow for handling of higher bus count system. 
+NTRaph: Load Flow project using the Newton Raphson method for a more efficient iterative process than Gauss Seidel method. Use Power Injection mismatch and Jacobian matrix to create updated guesses. This usually produces convergence in very low iteration counts. Updated with MatPower TestingScript.m. Tested with (IEEE 200 bus and 30 bus systems)
